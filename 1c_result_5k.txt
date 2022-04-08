@@ -1,0 +1,34 @@
+Hi I am process 7218 and my parent is 7217
+Hi I am process 7218 and I found the hidden key in position A[385]
+Hi I am process 7218 and I found the hidden key in position A[491]
+Hi I am main parent 7217
+Hi I am process 7217 and I found the hidden key in position A[2776]
+Hi I am process 7217 and I found the hidden key in position A[2792]
+Hi I am process 7219 and my parent is 7217
+Hi I am process 7219 and I found the hidden key in position A[3334]
+Hi I am process 7219 and I found the hidden key in position A[4382]
+Hi I am main parent 7217
+Hi I am process 7217 and I found the hidden key in position A[2776]
+Hi I am process 7217 and I found the hidden key in position A[2792]
+Hi I am process 7219 and my parent is 7217
+Hi I am process 7219 and I found the hidden key in position A[3334]
+Hi I am process 7221 and my parent is 7219
+Hi I am process 7218 and my parent is 7217
+Hi I am process 7218 and I found the hidden key in position A[385]
+Hi I am process 7218 and I found the hidden key in position A[491]
+Hi I am process 7220 and my parent is 7218
+Hi I am process 7220 and I found the hidden key in position A[885]
+Hi I am process 7220 and I found the hidden key in position A[1648]
+Hi I am process 7220 and I found the hidden key in position A[1914]
+Hi I am process 7218 and my parent is 7217
+Hi I am process 7218 and I found the hidden key in position A[385]
+Hi I am process 7218 and I found the hidden key in position A[491]
+Hi I am process 7220 and my parent is 7218
+Hi I am process 7220 and I found the hidden key in position A[885]
+Hi I am process 7222 and my parent is 7220
+Hi I am process 7222 and I found the hidden key in position A[1420]
+Hi I am main parent 7217
+Hi I am process 7217 and I found the hidden key in position A[2776]
+Hi I am process 7217 and I found the hidden key in position A[2792]
+AVG = 2475.000000
+MAX = 4999

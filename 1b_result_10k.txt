@@ -1,0 +1,26 @@
+Hi I am process 6875 and my parent is 6874
+Hi I am process 6875 and I found the hidden key in position A[491]
+Hi I am process 6875 and I found the hidden key in position A[885]
+Hi I am process 6875 and I found the hidden key in position A[1420]
+Hi I am process 6875 and I found the hidden key in position A[6914]
+Hi I am process 6875 and I found the hidden key in position A[7792]
+Hi I am process 6875 and my parent is 6874
+Hi I am process 6875 and I found the hidden key in position A[491]
+Hi I am process 6875 and I found the hidden key in position A[885]
+Hi I am process 6875 and I found the hidden key in position A[1420]
+Hi I am process 6876 and my parent is 6875
+Hi I am process 6876 and I found the hidden key in position A[2776]
+Hi I am process 6876 and I found the hidden key in position A[5385]
+Hi I am process 6876 and I found the hidden key in position A[6648]
+Hi I am process 6875 and my parent is 6874
+Hi I am process 6875 and I found the hidden key in position A[491]
+Hi I am process 6875 and I found the hidden key in position A[885]
+Hi I am process 6875 and I found the hidden key in position A[1420]
+Hi I am process 6876 and my parent is 6875
+Hi I am process 6876 and I found the hidden key in position A[2776]
+Hi I am process 6877 and my parent is 6876
+Hi I am main parent 6874
+Hi I am process 6874 and I found the hidden key in position A[8334]
+Hi I am process 6874 and I found the hidden key in position A[9382]
+AVG = 2465.000000
+MAX = 4999

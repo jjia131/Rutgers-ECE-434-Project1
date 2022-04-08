@@ -1,0 +1,13 @@
+Hi I am process 6483 and my parent is 649
+AVG = 2475.000000
+MAX = 4999
+Hi I am process 6483 and I found the hidden key in position A[385].
+Hi I am process 6483 and I found the hidden key in position A[491].
+Hi I am process 6483 and I found the hidden key in position A[885].
+Hi I am process 6483 and I found the hidden key in position A[1420].
+Hi I am process 6483 and I found the hidden key in position A[1648].
+Hi I am process 6483 and I found the hidden key in position A[1914].
+Hi I am process 6483 and I found the hidden key in position A[2776].
+Hi I am process 6483 and I found the hidden key in position A[2792].
+Hi I am process 6483 and I found the hidden key in position A[3334].
+Hi I am process 6483 and I found the hidden key in position A[4382].

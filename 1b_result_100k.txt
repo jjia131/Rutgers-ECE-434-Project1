@@ -1,0 +1,37 @@
+Hi I am process 6971 and my parent is 6970
+Hi I am process 6971 and I found the hidden key in position A[2361]
+Hi I am process 6971 and I found the hidden key in position A[13925]
+Hi I am process 6971 and I found the hidden key in position A[16648]
+Hi I am process 6971 and I found the hidden key in position A[68689]
+Hi I am process 6971 and I found the hidden key in position A[80539]
+Hi I am process 6971 and my parent is 6970
+Hi I am process 6971 and I found the hidden key in position A[2361]
+Hi I am process 6971 and I found the hidden key in position A[13925]
+Hi I am process 6971 and I found the hidden key in position A[16648]
+Hi I am process 6972 and my parent is 6971
+Hi I am process 6972 and I found the hidden key in position A[20058]
+Hi I am process 6972 and I found the hidden key in position A[30885]
+Hi I am process 6972 and I found the hidden key in position A[55735]
+Hi I am process 6972 and I found the hidden key in position A[60491]
+Hi I am process 6971 and my parent is 6970
+Hi I am process 6971 and I found the hidden key in position A[2361]
+Hi I am process 6971 and I found the hidden key in position A[13925]
+Hi I am process 6971 and I found the hidden key in position A[16648]
+Hi I am process 6972 and my parent is 6971
+Hi I am process 6972 and I found the hidden key in position A[20058]
+Hi I am process 6972 and I found the hidden key in position A[30885]
+Hi I am process 6973 and my parent is 6972
+Hi I am process 6973 and I found the hidden key in position A[36914]
+Hi I am process 6973 and I found the hidden key in position A[38334]
+Hi I am process 6973 and I found the hidden key in position A[41420]
+Hi I am process 6973 and I found the hidden key in position A[47792]
+Hi I am main parent 6970
+Hi I am process 6970 and I found the hidden key in position A[83425]
+Hi I am process 6970 and I found the hidden key in position A[85385]
+Hi I am process 6970 and I found the hidden key in position A[89171]
+Hi I am process 6970 and I found the hidden key in position A[89382]
+Hi I am process 6970 and I found the hidden key in position A[90026]
+Hi I am process 6970 and I found the hidden key in position A[92776]
+Hi I am process 6970 and I found the hidden key in position A[97762]
+AVG = 2499.000000
+MAX = 4999
