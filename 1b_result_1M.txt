@@ -1,42 +1,15 @@
-Hi I am process 7046 and my parent is 7045
-Hi I am process 7046 and I found the hidden key in position A[5210]
-Hi I am process 7046 and I found the hidden key in position A[89171]
-Hi I am process 7046 and I found the hidden key in position A[692776]
-Hi I am process 7046 and I found the hidden key in position A[702566]
-Hi I am process 7046 and I found the hidden key in position A[747792]
-Hi I am process 7046 and I found the hidden key in position A[760491]
-Hi I am process 7046 and my parent is 7045
-Hi I am process 7046 and I found the hidden key in position A[5210]
-Hi I am process 7046 and I found the hidden key in position A[89171]
-Hi I am process 7047 and my parent is 7046
-Hi I am process 7047 and I found the hidden key in position A[180539]
-Hi I am process 7047 and I found the hidden key in position A[202361]
-Hi I am process 7047 and I found the hidden key in position A[238334]
-Hi I am process 7047 and I found the hidden key in position A[289382]
-Hi I am process 7048 and my parent is 7047
-Hi I am process 7048 and I found the hidden key in position A[368689]
-Hi I am process 7048 and I found the hidden key in position A[383425]
-Hi I am process 7048 and I found the hidden key in position A[455735]
-Hi I am process 7048 and I found the hidden key in position A[465781]
-Hi I am process 7048 and I found the hidden key in position A[490026]
-Hi I am process 7046 and my parent is 7045
-Hi I am process 7046 and I found the hidden key in position A[5210]
-Hi I am process 7046 and I found the hidden key in position A[89171]
-Hi I am process 7047 and my parent is 7046
-Hi I am process 7047 and I found the hidden key in position A[180539]
-Hi I am process 7047 and I found the hidden key in position A[202361]
-Hi I am process 7047 and I found the hidden key in position A[238334]
-Hi I am process 7047 and I found the hidden key in position A[289382]
-Hi I am process 7047 and I found the hidden key in position A[513925]
-Hi I am process 7047 and I found the hidden key in position A[516648]
-Hi I am process 7047 and I found the hidden key in position A[520058]
-Hi I am process 7047 and I found the hidden key in position A[595367]
-Hi I am process 7047 and I found the hidden key in position A[636914]
-Hi I am process 7047 and I found the hidden key in position A[641420]
-Hi I am main parent 7045
-Hi I am process 7045 and I found the hidden key in position A[885385]
-Hi I am process 7045 and I found the hidden key in position A[897762]
-Hi I am process 7045 and I found the hidden key in position A[930885]
-Hi I am process 7045 and I found the hidden key in position A[956428]
+Hi I am process 9579 and my parent is 9578
+Hi I am process 9579 and I found the hidden key in position A[692776]
+Hi I am process 9579 and I found the hidden key in position A[747792]
+Hi I am process 9579 and my parent is 9578
+Hi I am process 9580 and my parent is 9579
+Hi I am process 9580 and I found the hidden key in position A[289382]
+Hi I am process 9581 and my parent is 9580
+Hi I am process 9579 and my parent is 9578
+Hi I am process 9580 and my parent is 9579
+Hi I am process 9580 and I found the hidden key in position A[289382]
+Hi I am process 9580 and I found the hidden key in position A[636914]
+Hi I am main parent 9578
+Hi I am process 9578 and I found the hidden key in position A[930885]
 AVG = -1795.000000
 MAX = 4999

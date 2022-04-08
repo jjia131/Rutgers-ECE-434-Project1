@@ -1,55 +1,21 @@
-Hi I am process 7380 and my parent is 7379
-Hi I am process 7380 and I found the hidden key in position A[5210]
-Hi I am process 7380 and I found the hidden key in position A[89171]
-Hi I am process 7380 and I found the hidden key in position A[455735]
-Hi I am process 7380 and I found the hidden key in position A[465781]
-Hi I am process 7380 and I found the hidden key in position A[490026]
-Hi I am process 7380 and my parent is 7379
-Hi I am process 7380 and I found the hidden key in position A[5210]
-Hi I am process 7380 and I found the hidden key in position A[89171]
-Hi I am process 7382 and my parent is 7380
-Hi I am process 7382 and I found the hidden key in position A[180539]
-Hi I am process 7382 and I found the hidden key in position A[368689]
-Hi I am process 7382 and I found the hidden key in position A[383425]
-Hi I am process 7380 and my parent is 7379
-Hi I am process 7380 and I found the hidden key in position A[5210]
-Hi I am process 7380 and I found the hidden key in position A[89171]
-Hi I am process 7382 and my parent is 7380
-Hi I am process 7382 and I found the hidden key in position A[180539]
-Hi I am process 7383 and my parent is 7382
-Hi I am process 7383 and I found the hidden key in position A[202361]
-Hi I am process 7383 and I found the hidden key in position A[238334]
-Hi I am process 7383 and I found the hidden key in position A[289382]
-Hi I am main parent 7379
-Hi I am process 7379 and I found the hidden key in position A[513925]
-Hi I am process 7379 and I found the hidden key in position A[516648]
-Hi I am process 7379 and I found the hidden key in position A[520058]
-Hi I am process 7379 and I found the hidden key in position A[595367]
-Hi I am process 7381 and my parent is 7379
-Hi I am process 7381 and I found the hidden key in position A[636914]
-Hi I am process 7381 and I found the hidden key in position A[641420]
-Hi I am process 7381 and I found the hidden key in position A[692776]
-Hi I am process 7381 and I found the hidden key in position A[885385]
-Hi I am process 7381 and I found the hidden key in position A[897762]
-Hi I am main parent 7379
-Hi I am process 7379 and I found the hidden key in position A[513925]
-Hi I am process 7379 and I found the hidden key in position A[516648]
-Hi I am process 7379 and I found the hidden key in position A[520058]
-Hi I am process 7379 and I found the hidden key in position A[595367]
-Hi I am process 7381 and my parent is 7379
-Hi I am process 7381 and I found the hidden key in position A[636914]
-Hi I am process 7381 and I found the hidden key in position A[641420]
-Hi I am process 7381 and I found the hidden key in position A[692776]
-Hi I am process 7384 and my parent is 7381
-Hi I am process 7384 and I found the hidden key in position A[702566]
-Hi I am process 7384 and I found the hidden key in position A[747792]
-Hi I am process 7384 and I found the hidden key in position A[760491]
-Hi I am main parent 7379
-Hi I am process 7379 and I found the hidden key in position A[513925]
-Hi I am process 7379 and I found the hidden key in position A[516648]
-Hi I am process 7379 and I found the hidden key in position A[520058]
-Hi I am process 7379 and I found the hidden key in position A[595367]
-Hi I am process 7379 and I found the hidden key in position A[930885]
-Hi I am process 7379 and I found the hidden key in position A[956428]
+Hi I am process 10433 and my parent is 10432
+Hi I am main parent 10432
+Hi I am process 10434 and my parent is 10432
+Hi I am process 10434 and I found the hidden key in position A[636914]
+Hi I am process 10434 and I found the hidden key in position A[692776]
+Hi I am main parent 10432
+Hi I am process 10434 and my parent is 10432
+Hi I am process 10434 and I found the hidden key in position A[636914]
+Hi I am process 10434 and I found the hidden key in position A[692776]
+Hi I am process 10436 and my parent is 10434
+Hi I am process 10436 and I found the hidden key in position A[747792]
+Hi I am process 10433 and my parent is 10432
+Hi I am process 10435 and my parent is 10433
+Hi I am process 10433 and my parent is 10432
+Hi I am process 10435 and my parent is 10433
+Hi I am process 10437 and my parent is 10435
+Hi I am process 10437 and I found the hidden key in position A[289382]
+Hi I am main parent 10432
+Hi I am process 10432 and I found the hidden key in position A[930885]
 AVG = -1795.000000
 MAX = 4999

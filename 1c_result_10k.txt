@@ -1,33 +1,22 @@
-Hi I am process 7277 and my parent is 7276
-Hi I am process 7277 and I found the hidden key in position A[491]
-Hi I am process 7277 and I found the hidden key in position A[885]
-Hi I am main parent 7276
-Hi I am process 7276 and I found the hidden key in position A[5385]
-Hi I am process 7278 and my parent is 7276
-Hi I am process 7278 and I found the hidden key in position A[6648]
-Hi I am process 7278 and I found the hidden key in position A[6914]
-Hi I am process 7278 and I found the hidden key in position A[8334]
-Hi I am process 7277 and my parent is 7276
-Hi I am process 7277 and I found the hidden key in position A[491]
-Hi I am process 7277 and I found the hidden key in position A[885]
-Hi I am process 7279 and my parent is 7277
-Hi I am process 7279 and I found the hidden key in position A[1420]
-Hi I am main parent 7276
-Hi I am process 7276 and I found the hidden key in position A[5385]
-Hi I am process 7278 and my parent is 7276
-Hi I am process 7278 and I found the hidden key in position A[6648]
-Hi I am process 7278 and I found the hidden key in position A[6914]
-Hi I am process 7280 and my parent is 7278
-Hi I am process 7280 and I found the hidden key in position A[7792]
-Hi I am process 7277 and my parent is 7276
-Hi I am process 7277 and I found the hidden key in position A[491]
-Hi I am process 7277 and I found the hidden key in position A[885]
-Hi I am process 7279 and my parent is 7277
-Hi I am process 7279 and I found the hidden key in position A[1420]
-Hi I am process 7281 and my parent is 7279
-Hi I am process 7281 and I found the hidden key in position A[2776]
-Hi I am main parent 7276
-Hi I am process 7276 and I found the hidden key in position A[5385]
-Hi I am process 7276 and I found the hidden key in position A[9382]
-AVG = 2465.000000
+Hi I am process 10560 and my parent is 10559
+Hi I am process 10560 and I found the hidden key in position A[885]
+Hi I am main parent 10559
+Hi I am process 10561 and my parent is 10559
+Hi I am process 10561 and I found the hidden key in position A[6914]
+Hi I am main parent 10559
+Hi I am process 10561 and my parent is 10559
+Hi I am process 10561 and I found the hidden key in position A[6914]
+Hi I am process 10563 and my parent is 10561
+Hi I am process 10563 and I found the hidden key in position A[7792]
+Hi I am process 10560 and my parent is 10559
+Hi I am process 10560 and I found the hidden key in position A[885]
+Hi I am process 10562 and my parent is 10560
+Hi I am process 10560 and my parent is 10559
+Hi I am process 10560 and I found the hidden key in position A[885]
+Hi I am process 10562 and my parent is 10560
+Hi I am process 10564 and my parent is 10562
+Hi I am process 10564 and I found the hidden key in position A[2776]
+Hi I am main parent 10559
+Hi I am process 10559 and I found the hidden key in position A[9382]
+AVG = 2466.000000
 MAX = 4999
