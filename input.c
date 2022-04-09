@@ -22,7 +22,7 @@ int main(int argc, char *argv[] )
      * Open file in w (write) mode. 
      * "***.txt" is complete path to create file
      */
-    file = fopen("input.txt", "w");
+    file = fopen("input1M.txt", "w");
 
 
     /* fopen() return NULL if last operation was unsuccessful */

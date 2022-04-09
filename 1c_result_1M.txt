@@ -1,21 +1,68 @@
-Hi I am process 10433 and my parent is 10432
-Hi I am main parent 10432
-Hi I am process 10434 and my parent is 10432
-Hi I am process 10434 and I found the hidden key in position A[636914]
-Hi I am process 10434 and I found the hidden key in position A[692776]
-Hi I am main parent 10432
-Hi I am process 10434 and my parent is 10432
-Hi I am process 10434 and I found the hidden key in position A[636914]
-Hi I am process 10434 and I found the hidden key in position A[692776]
-Hi I am process 10436 and my parent is 10434
-Hi I am process 10436 and I found the hidden key in position A[747792]
-Hi I am process 10433 and my parent is 10432
-Hi I am process 10435 and my parent is 10433
-Hi I am process 10433 and my parent is 10432
-Hi I am process 10435 and my parent is 10433
-Hi I am process 10437 and my parent is 10435
-Hi I am process 10437 and I found the hidden key in position A[289382]
-Hi I am main parent 10432
-Hi I am process 10432 and I found the hidden key in position A[930885]
+Hi I am process 27268 and my parent is 27266
+Hi I am process 27270 and my parent is 27268
+Hi I am process 27269 and my parent is 27267
+Hi I am process 27271 and my parent is 27269
+Hi I am process 27269 and my parent is 27267
+Hi I am process 27273 and my parent is 27269
+Hi I am process 27268 and my parent is 27266
+Hi I am process 27272 and my parent is 27268
+Hi I am process 27269 and my parent is 27267
+Hi I am process 27274 and my parent is 27269
+Hi I am process 27268 and my parent is 27266
+Hi I am process 27275 and my parent is 27268
+Hi I am process 27268 and my parent is 27266
+Hi I am process 27269 and my parent is 27267
+Hi I am process 27276 and my parent is 27267
+Hi I am process 27278 and my parent is 27276
+Hi I am process 27277 and my parent is 27266
+Hi I am process 27279 and my parent is 27277
+Hi I am process 27276 and my parent is 27267
+Hi I am process 27280 and my parent is 27276
+Hi I am process 27277 and my parent is 27266
+Hi I am process 27281 and my parent is 27277
+Hi I am process 27276 and my parent is 27267
+Hi I am process 27282 and my parent is 27276
+Hi I am process 27276 and my parent is 27267
+Hi I am process 27277 and my parent is 27266
+Hi I am process 27283 and my parent is 27277
+Hi I am process 27277 and my parent is 27266
+Hi I am process 27284 and my parent is 27267
+Hi I am process 27286 and my parent is 27284
+Hi I am process 27285 and my parent is 27266
+Hi I am process 27287 and my parent is 27285
+Hi I am process 27284 and my parent is 27267
+Hi I am process 27288 and my parent is 27284
+Hi I am process 27285 and my parent is 27266
+Hi I am process 27289 and my parent is 27285
+Hi I am process 27284 and my parent is 27267
+Hi I am process 27290 and my parent is 27284
+Hi I am process 27284 and my parent is 27267
+Hi I am process 27285 and my parent is 27266
+Hi I am process 27291 and my parent is 27285
+Hi I am process 27285 and my parent is 27266
+Hi I am process 27292 and my parent is 27267
+Hi I am process 27292 and I found the hidden key in position A[289383]
+Hi I am process 27294 and my parent is 27292
+Hi I am process 27293 and my parent is 27266
+Hi I am process 27293 and I found the hidden key in position A[289383]
+Hi I am process 27295 and my parent is 27293
+Hi I am process 27292 and my parent is 27267
+Hi I am process 27292 and I found the hidden key in position A[289383]
+Hi I am process 27296 and my parent is 27292
+Hi I am process 27293 and my parent is 27266
+Hi I am process 27293 and I found the hidden key in position A[289383]
+Hi I am process 27297 and my parent is 27293
+Hi I am process 27292 and my parent is 27267
+Hi I am process 27292 and I found the hidden key in position A[289383]
+Hi I am process 27298 and my parent is 27292
+Hi I am process 27292 and my parent is 27267
+Hi I am process 27292 and I found the hidden key in position A[289383]
+Hi I am process 27293 and my parent is 27266
+Hi I am process 27293 and I found the hidden key in position A[289383]
+Hi I am process 27299 and my parent is 27293
+Hi I am process 27293 and my parent is 27266
+Hi I am process 27293 and I found the hidden key in position A[289383]
+AVG = -1795.000000
+MAX = 4999
 AVG = -1795.000000
 MAX = 4999

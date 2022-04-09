@@ -1,15 +1,9 @@
-Hi I am process 9657 and my parent is 9656
-Hi I am process 9657 and my parent is 9656
-Hi I am process 9658 and my parent is 9657
-Hi I am process 9658 and I found the hidden key in position A[30885]
-Hi I am process 9657 and my parent is 9656
-Hi I am process 9658 and my parent is 9657
-Hi I am process 9658 and I found the hidden key in position A[30885]
-Hi I am process 9659 and my parent is 9658
-Hi I am process 9659 and I found the hidden key in position A[36914]
-Hi I am process 9659 and I found the hidden key in position A[47792]
-Hi I am main parent 9656
-Hi I am process 9656 and I found the hidden key in position A[89382]
-Hi I am process 9656 and I found the hidden key in position A[92776]
-AVG = 2499.000000
-MAX = 4999
+Hi I am process 25068 and my parent is 25067
+Hi I am process 25069 and my parent is 25067
+Hi I am process 25069 and I found the hidden key in position A[30886]
+Hi I am process 25069 and I found the hidden key in position A[36915]
+Hi I am process 25069 and I found the hidden key in position A[47793]
+Hi I am process 25070 and my parent is 25067
+Hi I am process 25071 and my parent is 25067
+Hi I am process 25071 and I found the hidden key in position A[89383]
+Hi I am process 25071 and I found the hidden key in position A[92777]
