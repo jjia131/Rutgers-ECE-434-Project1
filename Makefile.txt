@@ -1,0 +1,24 @@
+For input: 
+gcc input.c -o input
+./input 10000 5
+
+For 1a.c, first parameter is L, second is H
+gcc 1a.c -o 1a
+./1a 10000 5
+
+For 1b.c, first parameter is L, second is H, third is NP
+gcc 1b.c -o 1b
+./1b 10000 5
+
+gcc 1b_new.c -o 1b_new
+./1b_new 10000 5 4
+
+For 1c.c, first parameter is L, second is H, third is NP, fourth is X
+gcc 1c.c -o 1c
+./1c 10000 5
+
+gcc 1c_new.c -o 1c_new
+./1c_new 10000 5 4 3
+
+File name can be changed under fopen
+input file should be made before using 1a 1b or 1c
